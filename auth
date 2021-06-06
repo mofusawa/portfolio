@@ -1,5 +1,0 @@
-https://api.instagram.com/oauth/authorize
-  ?client_id=2694605040839166
-  &redirect_uri=https://mofusawa.github.io/portfolio/auth/
-  &scope=user_profile,user_media
-  &response_type=code
